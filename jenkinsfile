@@ -34,7 +34,7 @@ node{
     }
     
     
-    stage('Genenrating test reports '){
+    stage('Generating test reports '){
         echo "generating test reports .execute code quality and security analysis ...."
     }
     
